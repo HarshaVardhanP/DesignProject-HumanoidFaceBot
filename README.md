@@ -4,4 +4,6 @@ Gesture recognition is an approach for an efficient human computer interaction. 
 
 Please go through the report FGR_EE304_Final_Project.pdf for details about the project.
 
+![Alt text](https://cloud.githubusercontent.com/assets/5204400/19833583/36759ef2-9e14-11e6-9fd9-784937886857.jpg)
+
 Demo Video : https://www.youtube.com/watch?v=fJm9DGA1c5s 
